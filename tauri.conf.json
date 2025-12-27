@@ -1,0 +1,24 @@
+{
+  "build": {
+    "beforeDevCommand": "",
+    "beforeBuildCommand": "",
+    "devPath": "../",
+    "distDir": "../"
+  },
+  "package": {
+    "productName": "Wispr Flow Clone",
+    "version": "0.1.0"
+  },
+  "tauri": {
+    "windows": [
+      {
+        "title": "Wispr Flow Clone",
+        "width": 800,
+        "height": 600
+      }
+    ],
+    "security": {
+      "csp": null
+    }
+  }
+}
