@@ -1,0 +1,10 @@
+wispr-flow-clone
+│
+├── package.json
+├── index.html
+├── app.js
+│
+└── src-tauri
+    ├── tauri.conf.json
+    └── src
+        └── main.rs
